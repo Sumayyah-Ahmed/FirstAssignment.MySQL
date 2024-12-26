@@ -36,6 +36,3 @@ VALUES
     ('Bobby', 'Smith', '2018-07-09', 12);      -- Assigned to Marketing
 
 
-
-
-
